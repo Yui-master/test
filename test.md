@@ -43,7 +43,7 @@ $$
 Phương sai:
 
 $$
-\operatorname{Var}(X)=3\cdot \frac{7}{13}\cdot \frac{6}{13}\cdot \frac{13-3}{13-1}
+\mathrm{Var}(X)=3\cdot \frac{7}{13}\cdot \frac{6}{13}\cdot \frac{13-3}{13-1}
 =\frac{105}{169}.
 $$
 
